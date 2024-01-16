@@ -1,2 +1,1 @@
-# ESRB-Rating-Predictor
-A program that looks at 1895 videogames from both the PS4 and XBOX One and then tries to predict the ratings for 34 games.
+A program that looks at 1895 videogames from both the PS4 and XBOX One's ESRB ratings and the categories that gave them said ratings and then tries to predict the ratings for future games using machine learning to get the most accurate reults among test data.
